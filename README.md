@@ -40,8 +40,3 @@
 <a href="https://www.apollographql.com/docs/" target="_blank"><img src="./assets/apollo.png" align="left" alt="git" height='42px'/></a>
 
 <br>
-
-[website]: https://jasbirrajrana.live/
-[twitter]: https://twitter.com/JasbiRajRana3
-[instagram]: https://instagram.com/jasbirrajrana_
-[linkedin]: https://www.linkedin.com/in/jasbirrajrana/
