@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p><a href="https://www.linkedin.com/in/ashutosh-singh-a4a85018a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://www.instagram.com/ashu__.singh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/ashutosh-singh-a4a85018a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://www.instagram.com/ashu___.singh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://ashutoshsingh.live)
 
