@@ -13,6 +13,7 @@
 
 - 👯 I’m looking to collaborate with other passionate developers. 🧑‍🚀
 - ⚡ Are you thinking something,  share with me we can web it.
+- I only do open source contribution with this github account.
 
 <br>
 
