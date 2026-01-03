@@ -27,7 +27,6 @@
 I enjoy building **backend systems, AI-driven products, and developer tools**.  
 Always learning, experimenting, and improving my craft.
 
-🐦 Twitter — **@ashu_perfect**
 
 <br>
 
