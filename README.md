@@ -1,9 +1,14 @@
 ## Hi there 👋
 
 <p>
+<a href="mailto:ashusinghweb414@gmail.com">
+<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+
 <a href="https://www.linkedin.com/in/ashutosh-singh-a4a85018a/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
+
 <a href="https://twitter.com/ashu_perfect">
 <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a>
@@ -22,7 +27,6 @@
 I enjoy building **backend systems, AI-driven products, and developer tools**.  
 Always learning, experimenting, and improving my craft.
 
-📫 Email — **ashusinghweb414@gmail.com**  
 🐦 Twitter — **@ashu_perfect**
 
 <br>
